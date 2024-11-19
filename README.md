@@ -1,7 +1,3 @@
-Here’s a well-structured **README.md** file for your project:
-
----
-
 # ✈️ Flight Price Prediction
 
 A **Flight Price Prediction** application that allows users to input flight details through a React-based frontend form. The data is processed by a Flask backend, which utilizes a trained machine learning model to predict flight ticket prices.
