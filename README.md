@@ -62,7 +62,7 @@ This project is designed to provide a seamless experience for users to predict f
 
 ### Step 1: Clone the Repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Shail2004/Flight-Price_prediction.git
 cd flight-price-prediction
 ```
 
@@ -123,5 +123,5 @@ This project is open-source and available under the **MIT License**.
 ---
 
 ## 👤 Author
-- **[Your Name](https://github.com/Shail2004)**  
+- **[Shail Jain](https://github.com/Shail2004)**  
 Let me know if you have any suggestions for improvements!
